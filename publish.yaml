@@ -34,7 +34,7 @@ Parameters:
     region:
       title: 地域
       type: string
-      default: cn-hangzhou
+      default: cn-shenzhen
       description: 创建应用所在的地区
       enum:
         - cn-beijing
